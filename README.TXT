@@ -9,4 +9,5 @@ PURPOSE OF PROJECT: The Hello world project for CIS 133J's Week 6 assignment
 VERSION or DATE: 2018.02.16
 HOW TO START THIS PROJECT: Create branches for features you wish to add, start coding.
 AUTHORS: William Wheatley-Uhl & The Dark Lord Cthulhu
-USER INSTRUCTIONS: Get ready to be greeted in the most friendly and computerized fashion.
+USER INSTRUCTIONS: Get ready to be greeted in the most friendly and computerized fashion. Additionally, 
+your favorite fruit will be analyzed for correctness and validity. Be prepared.
